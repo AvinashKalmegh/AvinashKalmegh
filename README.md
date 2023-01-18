@@ -21,9 +21,9 @@
 
 - ⚛️ Some technologies that I love to working with includes MERN stack, CSS,Typescript & Web Testing.
 
--  👨‍💻 My Portfilio[Click here](https://saurav269.github.io/)
+-  👨‍💻 My Portfilio[Click here](https://AvinashKalmegh.github.io/)
 
--  👀 My Github Repositories [Click here](https://github.com/saurav269?tab=repositories)
+-  👀 My Github Repositories [Click here](https://github.com/AvinashKalmegh?tab=repositories)
 
 -  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
 
