@@ -100,14 +100,14 @@
 <br/>
 <br/>
 ## 📊 My Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=saurav269&theme=algolia" align="center" alt="saurav269" width="100%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav269&theme=2077" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AvinashKalmegh&theme=algolia" align="center" alt="saurav269" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashKalmegh&theme=2077" width="100%" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saurav269&bg_color=000000&color=858585&line=787878&point=545454&area=true&hide_border=true)](https://github.com/saurav269/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AvinashKalmegh&bg_color=000000&color=858585&line=787878&point=545454&area=true&hide_border=true)](https://github.com/AvinashKalmegh/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/saurav269) 
 
 ## ❤ Views and Followers
-<a href="https://github.com/saurav269/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=saurav269">
+<a href="https://github.com/AvinashKalmegh/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AvinashKalmegh">
 </a>
-<a href="https://github.com/Shivamt2107?tab=followers"><img src="https://img.shields.io/github/followers/saurav269?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AvinashKalmegh?tab=followers"><img src="https://img.shields.io/github/followers/AvinashKalmegh?label=Followers&style=social" alt="GitHub Badge"></a>
