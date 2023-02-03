@@ -21,7 +21,7 @@
 
 - ⚛️ Some technologies that I love to working with includes MERN stack, CSS & Typescript.
 
--  👨‍💻 My Portfilio[Click here](https://AvinashKalmegh.github.io/)
+-  👨‍💻 My Portfilio[Click here](https://avinashkalmegh.github.io/)
 
 -  👀 My Github Repositories [Click here](https://github.com/AvinashKalmegh?tab=repositories)
 
