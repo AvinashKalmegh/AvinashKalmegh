@@ -1,4 +1,4 @@
-![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
+[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://avinashkalmegh.github.io/)
 
 <h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Avinash Kalmegh <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
