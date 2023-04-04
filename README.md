@@ -106,7 +106,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AvinashKalmegh&bg_color=11080d&color=f7edf6&line=ff4df3&point=faf5f5&area=true&hide_border=true)]
 
 ## ❤ Views and Followers
-<a href="https://github.com/AvinashKalmegh/github-profile-views-counter">
+<!-- <a href="https://github.com/AvinashKalmegh/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AvinashKalmegh">
-</a>
+</a> -->
+![](https://komarev.com/ghpvc/?username=AvinashKalmegh)
 <a href="https://github.com/AvinashKalmegh?tab=followers"><img src="https://img.shields.io/github/followers/AvinashKalmegh?label=Followers&style=social" alt="GitHub Badge"></a>
