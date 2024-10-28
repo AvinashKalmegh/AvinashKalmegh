@@ -103,7 +103,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AvinashKalmegh&theme=algolia" align="center" alt="AvinashKalmegh" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashKalmegh&theme=2077" width="100%" />
 
-[![Avinash's github activity graph]([https://github-readme-activity-graph.cyclic.app/graph?username=AvinashKalmegh&bg_color=11080d&color=f7edf6&line=ff4df3&point=faf5f5&area=true&hide_border=true](https://github.com/ashutosh00710/github-readme-activity-graph))]
+
 
 ## ❤ Views and Followers
 <!-- <a href="https://github.com/AvinashKalmegh/github-profile-views-counter">
